@@ -27,10 +27,19 @@ Première étape, traduires les noms des élements du livre essentiels au démar
 Ensuite, créer les supports imprimables... 
 
 - [ ] fiche perso Fate/HMTM
-- [ ] liste des ccompétences (pour aider à la création des persos)
-- [ ] liste des prouesses (pour aider à la création des persos)
+- [ ] liste des compétences (pour aider à la création des persos)
+- [ ] liste des prouesses   (pour aider à la création des persos)
 
-Par la suite, d'autres contenus seront produits. Tout élément issu du livre porte la mention (core) afin de les différencier, voir même (core-p132) pour indiquer la page source du live. 
+Il serait sympathique aussi de :
+
+- [ ] traduire les prouesses
+- [ ] traduire les compétences
+
+Par la suite, d'autres contenus seront produits. 
+
+Tout élément issu du livre HMTM porte la mention (core) afin de les différencier des éléments inventés séparément ; voir même (core-p132) pour indiquer la page source du live.  
+Tout élément issu du livre Fate Système de base porte la mention (fatefr-p123).  
+Tout élément issu du livre Fate Core system la mention (fate-p123).  
 
 ## Contribuer
 
