@@ -1,6 +1,8 @@
 
 # Heavy Metal Thunder Mouse - Français
 
+![](res/HMTM-main-small.jpg)
+
 Éléments de traduction du jeu [Heavy Metal Thunder Mouse](http://www.shorelessskies.com/p/hmtm.html) en français.
 
 Sous licence [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/)
@@ -11,8 +13,8 @@ L'objectif est de proposer de quoi jouer à HMTM en francophonie.
 
 Première étape, traduires les noms des élements du livre essentiels au démarrage d'une partie.
 
-- [ ] noms des compétences
-- [ ] noms des prouesses
+- [ ] noms des [compétences](SkillsStunts.md)
+- [ ] noms des [prouesses](SkillsStunts.md)
 - [ ] noms des districts
 - [ ] noms des clubs
 - [ ] noms des PNJ
