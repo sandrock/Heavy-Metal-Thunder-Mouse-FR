@@ -3,11 +3,11 @@
 
 ![](res/HMTM-main-small.jpg)
 
-Éléments de traduction du jeu [Heavy Metal Thunder Mouse](http://www.shorelessskies.com/p/hmtm.html) en français.
+Éléments de traduction du jeu [Heavy Metal Thunder Mouse](http://www.shorelessskies.com/p/hmtm.html) en français. L'objectif est de proposer de quoi jouer à HMTM en français. Contenu non officiel. 
 
-Sous licence [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/)
-
-L'objectif est de proposer de quoi jouer à HMTM en francophonie. 
+Ces travaux sont sous licence [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).  
+HMTM est sous Copyright 2018 Shoreless Skyes Publishing LLC.  
+Fate Core System est sous licence Creative Commons Attribution 3.0 Unported, produit et copyright par Evil Hat Productions LLC.  
 
 ## Travaux de traduction
 
