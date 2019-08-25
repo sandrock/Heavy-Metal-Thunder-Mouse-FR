@@ -13,13 +13,13 @@ Fate Core System est sous licence Creative Commons Attribution 3.0 Unported, pro
 
 Première étape, traduires les noms des élements du livre essentiels au démarrage d'une partie.
 
-- [ ] noms des [compétences](SkillsStunts.md)
-- [ ] noms des [prouesses](SkillsStunts.md)
+- [x] noms des [compétences](SkillsStunts.md)
+- [x] noms des [prouesses](SkillsStunts.md)
 - [ ] noms des districts
 - [ ] noms des clubs
 - [ ] noms des PNJ
-- [ ] noms des prouesses moto
-- [ ] noms des compétences de club
+- [x] noms des prouesses moto
+- [x] noms des compétences de club
 - [ ] prétirés
 - [ ] fiches clubs
 - [ ] fiches PNJ
