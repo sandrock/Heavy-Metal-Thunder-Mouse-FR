@@ -20,9 +20,10 @@ Première étape, traduires les noms des élements du livre essentiels au démar
 - [ ] noms des PNJ
 - [x] noms des prouesses moto
 - [x] noms des compétences de club
-- [ ] prétirés
-- [ ] fiches clubs
-- [ ] fiches PNJ
+- [ ] prétirés à traduire
+- [ ] fiche du club à compléter
+- [ ] fiches des clubs à traduire
+- [ ] fiches PNJ à traduire
 
 Ensuite, créer les supports imprimables... 
 

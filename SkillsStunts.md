@@ -33,12 +33,6 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
 
 # Prouesses
 
-## *Awareness* - Perception
-
-- *Danger sense (core-p65)* - Sens du danger
-- *Body language is everything (core-p65)* - Langage du corps
-- *I know my town (core-p65)* - Je connais mon quartier
-
 ## Combat
 
 - *Heavy hitter (core-p65)* - Double coup
@@ -51,28 +45,19 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
 - *I don't need nobody (core-p148)* - 
     - Une fois par scène, lors d'un Combat, dépenser un point pour invoquer un aspect une seconde fois.
 
-### *Contacts* - Réseau
+## Discrétion - *Sneak*
 
-- *The people's mouse (core-p65)* - Contact humain
-- *Whisper war (core-p65)* - Messes basses
-- *Bad reputation (core-p65)* - Mauvaise réputation
-
-## *Deception* - Tromperie
-
-- *Lies upon lies (core-p66)* - Bon mensonge
-- *A mouse of many colors (core-p66)* - Je le connais
-- *Propaganda expert (core-p66)* - Discréditer un club
-
-## *Driving* - Pilotage
-
-- *Streets of home (core-p66)* - Mon quartier, mes routes
-- *Daredevil driver (core-p66)* - Cascade à moto
-- *Expert biker (core-p66)* - Rattraper le coup
+- *Quiet as a mouse (core-p68)* - Silence de l'ombre
+- *Follow my lead (core-p68)* - Chut, par ici !
+- *Shadow friend (core-p68)* - Ombre de la nuit
+- *Sneaky sneak (core-p142)* - Super discret
+    - Donne +2 en Discrétion dans un défi
 
 ## Empathie
 
 - *Lie whisperer (core-p66)* - Mensonge malhabile 
 - *Nose for trouble (core-p66)* - Moi d'abord !
+    - A condition de ne pas être pris par surprise, peut utiliser Empathie au lieu de Perception pour déterminer le tour dans un Conflit
 - *They got me too (core-p66)* - Je connais ça aussi
 
 ## Endurance 
@@ -83,17 +68,13 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
 - *Survival instinct (core-p148)* - 
     - +2 en Endurance dans une situation dangereuse
 
-## *Know-how* - Savoir
+## Enquête - *Snooping*
 
-- *Book mouse (core-p66)* - Rat de bibliothèque
-- *Mechanical mind (core-p66)* - Physicien
-- *Area of expertise (core-p66)* - Spécialiste de ____
-
-## *Leadership* - Meneur
-
-- *Tactical genius (core-p67)* - Tacticien
-- *Roadmaster (core-p67)* - Roadmaster
-- *The Prez (core-p67)* - Il vient avec moi
+- *Evesdropper (core-p68)* - Oreille fine
+- *Get the info (core-p68)* - Garde à vue
+- *Hotel mouse (core-p68)* - Souris citadine
+- *Sentimental value (core-p142)* - Valeur sentimentale
+    - Une fois par session, utiliser Enquête au lieu de Empathie pour créer un avantage qui va influencer la cible émotionnellement
 
 ## Mécanique
 
@@ -101,14 +82,15 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
 - *Bits everywhere (core-p67)* - C'est bon, il m'en reste
 - *Motorcycle Master (core-p67)* - Maître mécano 
 - *Oh, I fixed it already (core-p67)* - Je m'en suis occupé
-- *Motorcycle guy (core-p146)* - Le fil rouge sur le bouton rouge
+- *Motorcycle guy (core-p146)* - LE mécano
     - Une fois par session, relancer un jet sans utiliser de point lorsque vous travaillez sur une moto.
 
-## *Mischief* - Triche
+## Meneur - *Leadership* 
 
-- *Pickpocket (core-p67)* - Pickpocket
-- *Mastermind (core-p67)* - Utile l'intello
-- *Probably didn't break anything important... (core-p67)* - Oups, je l'ai cassé
+- *Tactical genius (core-p67)* - Tacticien
+- *Roadmaster (core-p67)* - Roadmaster
+    - en pilotant, +2 pour créer un avantage pour vos amis
+- *The Prez (core-p67)* - Il vient avec moi
 
 ## Mouvement
 
@@ -120,6 +102,18 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
 - *I always win (core-p140)* - Forest Gump
     - dans un défi de course à pattes, démarre avec 1 victoire
 
+## Perception - *Awareness*
+
+- *Danger sense (core-p65)* - Sens du danger
+- *Body language is everything (core-p65)* - Langage du corps
+- *I know my town (core-p65)* - Je connais mon quartier
+
+## Pilotage - *Driving* 
+
+- *Streets of home (core-p66)* - Mon quartier, mes routes
+- *Daredevil driver (core-p66)* - Cascade à moto
+- *Expert biker (core-p66)* - Rattraper le coup
+
 ## Provocation
 
 - *Armor of Ire (core-p67)* - T'es vraiment sûr ?
@@ -129,33 +123,47 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
     - Vous avez appris à imiter les chats
     - Pour distraire un chat, utiliser Provoquer pour créer un avantage ; l'opposition est passive de Moyenne (+1)
 
-## *Rapport* - Sociabilité
+### Réseau - *Contacts*
+
+- *The people's mouse (core-p65)* - Contact humain
+- *Whisper war (core-p65)* - Messes basses
+- *Bad reputation (core-p65)* - Mauvaise réputation
+
+## Savoir - *Know-how* 
+
+- *Book mouse (core-p66)* - Rat de bibliothèque
+- *Mechanical mind (core-p66)* - Physicien
+- *Area of expertise (core-p66)* - Spécialiste de ____
+
+## Sociabilité - *Rapport*
 
 - *Best foot forward (core-p68)* - Je l'ai vu venir
 - *The great communicator (core-p67)* - Crieur
 - *Flattery will get you everywhere (core-p67)* - ?????
 
-## *Sneak* - Discrétion
+## Triche - *Mischief*
 
-- *Quiet as a mouse (core-p68)* - Silence de l'ombre
-- *Follow my lead (core-p68)* - Chut, par ici !
-- *Shadow friend (core-p68)* - Ombre de la nuit
-- *Sneaky sneak (core-p142)* - Super discret
-    - Donne +2 en Discrétion dans un défi
+- *Pickpocket (core-p67)* - Pickpocket
+- *Mastermind (core-p67)* - Utile l'intello
+- *Probably didn't break anything important... (core-p67)* - Oups, cassé !
+    - Utilisez Tricherie plutôt que Mécanique pour endommager une machine
 
-## *Snooping* - Enquête
+## Tromperie - *Deception* 
 
-- *Evesdropper (core-p68)* - Oreille fine
-- *Get the info (core-p68)* - Garde à vue
-- *Hotel mouse (core-p68)* - Souris citadine
-- *Sentimental value (core-p142)* - Valeur sentimentale
-    - Une fois par session, utiliser Enquête au lieu de Empathie pour créer un avantage qui va influencer la cible émotionnellement
+- *Lies upon lies (core-p66)* - Bon mensonge
+- *A mouse of many colors (core-p66)* - Je le connais
+- *Propaganda expert (core-p66)* - Discréditer un club
 
-## *Will* - Volonté
+## Volonté - *Will*
 
-- *Focused driver (core-p68)* - Pilotage précis
+- *Focused driver (core-p68)* - On se concentre au guidon
+    - peut utiliser Volonté plutôt que Pilotage pour surmonter une situation de pilotage compliquée
 - *Puzzle expert (core-p68)* - Expert des puzzles
 - *Superb memory (core-p68)* - ça me dit quelque chose
+
+
+
+
 
 # Prouesses moto
 
@@ -172,14 +180,16 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
     - Lors d'un succès à surmonter ou à Créer un avantage, dépenser 1 point permet de démarrer avec 1 victoire
 - *Pure nitrous (core-p147)* - Nouveau record
     - Durant une course contre le temps, lors d'un succès de Pilotage, le succès est avec style. 
+- *The Night Shadow (core-p143)* - Ombre nocturne
+    - Lors d'un défi, obtient +2 en Discréation lors d'un déplacement à moto
 
 # Compétences club
 
 - *Order (core-p73)* - Ordre
     - Détermine l'intensité de l'adhérence des membres aux règles et à l'autorité du club.
-- *Fellowship (core)* - Appartenance
+- *Fellowship (core)* - Fraternité
     - Le niveau de confiance et de volonté des membres entre eux.
-- *Strength (core)* - Autonomie
+- *Strength (core)* - Nombre
     - La capacité à agir sans l'intervention des joueurs.
 - Ressources (core)
     - La capacité à générer des ressources et des informations pour les membres. 
@@ -195,3 +205,4 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
     - Quand vous recherchez des dissidents dans le club, lors d'un jet d'Ordre, obtenez +2.
 - *Better together (core-p153)* - Équipe soudée
     - Quand un membre du club est dans le besoin, dépenser un point pour lancer Appartenance au lieu de Ressources.
+
