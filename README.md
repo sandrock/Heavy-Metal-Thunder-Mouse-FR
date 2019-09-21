@@ -11,7 +11,7 @@ Fate Core System est sous licence Creative Commons Attribution 3.0 Unported, pro
 
 ## Travaux de traduction
 
-Première étape, traduires les noms des élements du livre essentiels au démarrage d'une partie.
+Première étape : traduire les noms des éléments du livre essentiels au démarrage d'une partie.
 
 - [x] noms des [compétences](SkillsStunts.md)
 - [x] noms des [prouesses](SkillsStunts.md)
@@ -38,13 +38,20 @@ Il serait sympathique aussi de :
 
 Par la suite, d'autres contenus seront produits. 
 
+## Contribuer
+
+Si vous pensez que d'autres contenus méritent d'être traduits, ou que vous avez invité un éléments intéressant, [dites-le](https://github.com/sandrock/Heavy-Metal-Thunder-Mouse-FR/issues/new). 
+
+Ouvert aux contributions. [Forkez](https://help.github.com/en/articles/about-forks) et [faites une PR](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork).
+
+
+## Convention de traduction
+
+Indiquer le terme traduit devant le terme original, le terme anglais en *italique*, la référence (core-123) ensuite. `Double coup - *Heavy hitter (core-p65)*`
+
+Ne pas traduire mot-à-mot, choisir une terme qui sonne bien ou qui référence la culture française. 
+
 Tout élément issu du livre HMTM porte la mention (core) afin de les différencier des éléments inventés séparément ; voir même (core-p132) pour indiquer la page source du live.  
 Tout élément issu du livre Fate Système de base porte la mention (fatefr-p123).  
 Tout élément issu du livre Fate Core system la mention (fate-p123).  
-
-## Contribuer
-
-Si vous pensez que d'autres contenus méritent d'être traduits, [dites-le](https://github.com/sandrock/Heavy-Metal-Thunder-Mouse-FR/issues/new). 
-
-Ouvert aux contributions. [Forkez](https://help.github.com/en/articles/about-forks) et [faites une PR](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork).
 
