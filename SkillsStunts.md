@@ -36,6 +36,7 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
 ## Combat
 
 - Double coup - *Heavy hitter (core-p65)*
+    - En cas de succès avec style en Combat et si choix de réduire le résultat (-1) (fatefr-p140) pour obtenir un coup de pouce (core-p87,fatefr-p58), obtenez un aspect de situation (1 invocation) à la place.
 - Bagarreur - *Brawler (core-p65)*
 - Coup de queue - *Tail fighter (core-p65)*
 - Combattant né - *Born fighter (core-p140)*
@@ -204,5 +205,5 @@ Les compétences (core-p52) équivalentes FATE sont précisées à titre indicat
 - Pas de conneries ! - *Tight ship (core-p80)*
     - Quand vous recherchez des dissidents dans le club, lors d'un jet d'Ordre, obtenez +2.
 - Équipe soudée - *Better together (core-p153)*
-    - Quand un membre du club est dans le besoin, dépenser un point pour lancer Appartenance au lieu de Ressources.
+    - Quand un membre du club est dans le besoin, dépenser un point pour lancer Fraternité au lieu de Ressources.
 
