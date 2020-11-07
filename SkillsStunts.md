@@ -1,4 +1,6 @@
 
+
+
 # Compétences
 
 Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,fate-p97) sont précisées à titre indicatif. 
@@ -114,55 +116,87 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 ## Discrétion - *Sneak*
 
 - Silence de l'ombre - *Quiet as a mouse (hmtm-p68)*
+    - Ignorez un aspect de la scène qui vous aurait mené à faire du bruit. 
 - Chut, par ici ! - *Follow my lead (hmtm-p68)*
+    - Quand vous dirigez un groupe, vous pouvez dépenser un point Fate pour éviter qu'un membre du groupe soit détecté. 
 - Ombre de la nuit - *Shadow friend (hmtm-p68)*
+    - Obtenez +2 en Discrétion dans des zones sombres ou ombragées. 
 - Super discret - *Sneaky sneak (hmtm-p142)*
     - Donne +2 en Discrétion dans un défi
 
 ## Empathie
 
 - Mensonge malhabile - *Lie whisperer (hmtm-p66)*
+    - Obtenez +2 en Empathie, lorsque vous tentez de découvrir un mensonge vous concernant ou non. 
 - Moi d'abord ! - *Nose for trouble (hmtm-p66)*
-    - A condition de ne pas être pris par surprise, peut utiliser Empathie au lieu de Perception pour déterminer le tour dans un Conflit
+    - A condition de pouvoir observer ou de prendre la parole, peut utiliser Empathie au lieu de Perception pour déterminer votre tour dans un Conflit.
 - Je connais ça aussi - *They got me too (hmtm-p66)*
+    - Obtenez +2 en Empathie pour réconforter quelqu'un qui a quelque chose en commun avec vous (basé sur vos aspects). 
 
 ## Endurance 
 
 - En fait, c'était rien - *Shake it off (hmtm-p66)*
+    - Vous pouvez enlever une conséquence légère sans avoir besoin d'une action de soin à la fin d'une scène. 
 - C'est pour s'échauffer - *Burly (hmtm-p66)*
+    - Si vous prenez des dégats physiques, vous réduisez le stress de 1 avant que des conséquences aient été prises. 
 - Brutale délicatesse - *Careful (hmtm-p66)*
+    - Utilisez Endurance pour exploser des boites sans pour autant défoncer leur contenu. 
 - Instinct de survie - *Survival instinct (hmtm-p148)*
     - +2 en Endurance dans une situation dangereuse
 
 ## Enquête - *Snooping*
 
 - Oreille fine - *Evesdropper (hmtm-p68)*
+    - Si vous parvenez à créer un avantage en écoutant une conversation, vous découvrez ou créez un aspect additionnel. 
 - Garde à vue - *Get the info (hmtm-p68)*
+    - Utilisez Enquête au lieu de Intimider pour tenter d'obtenir une information de quelqu'un. 
 - Souris citadine - *Hotel mouse (hmtm-p68)*
+    - Obtenez +2 quand vous Enquêtez dans un bâtiment créé par les humain (hôtel, résidence, bureau, etc).  
 - Valeur sentimentale - *Sentimental value (hmtm-p142)*
     - Une fois par session, utiliser Enquête au lieu de Empathie pour créer un avantage qui va influencer la cible émotionnellement
+
+## Intimider
+
+- T'es vraiment sûr ? - *Armor of Ire (hmtm-p67)*
+    - Utilisez Intimider pour vous Défendre dans un Combat, à condition de ne pas avoir reçu de stress. Vous faites hésiter votre opposant, mais quand vous recevez un coup, l'arnaque ne prend plus. 
+- Prendre le chat par la queue - *Cat Hater (hmtm-p67)*
+    - Vous savez comment agacer un chat. Obtenez +2 quand vous provoquez un chat. 
+- Encouragement caustique - *Heart of Gold (hmtm-p67)*
+    - Quelques fois, vos paroles outrageantes sont utiles : Obtenez +2 en provocant un ami ou votre club vers une action. 
+- Le chant du chat - *Cat's Meow (hmtm-p144)*
+    - Vous avez appris à imiter les chats.
+    - Pour distraire un chat, utiliser Provoquer pour créer un avantage ; l'opposition est passive de Moyenne (+1).
 
 ## Mécanique
 
 - Savoir mécanique - *Gearhead (hmtm-p67)*
+    - Concernant la mécanique générale, vous pouvez utiliser Mécanique au lieu de Savoir. 
 - C'est bon, il m'en reste - *Bits everywhere (hmtm-p67)*
+    - Vous avez toujours la pièce que vous cherchez lorsque vous utilisez Mécanique. Le MJ ne peut pas vous dire que vous ne l'avez pas. 
 - Maître mécano - *Motorcycle Master (hmtm-p67)*
-- Je m'en suis occupé - *Oh, I fixed it already (hmtm-p67)*
+    - Lorsque vous travaillez sur une moto, obtenez +2 en Mécanique. 
+- Je m'en suis déjà occupé - *Oh, I fixed it already (hmtm-p67)*
+    - Une fois par session, vous pouvez déclarer un détail de l'histoire dans le domaine Mécanique sans dépenser de point Fate. 
 - LE mécano - *Motorcycle guy (hmtm-p146)*
     - Une fois par session, relancer un jet sans utiliser de point lorsque vous travaillez sur une moto.
 
 ## Meneur - *Leadership* 
 
 - Tacticien - *Tactical genius (hmtm-p67)*
+    - Quand vous voulez aider un camarade dans un conflit, décrivez comment vous l'aidez et faites un jet de Surmonter. Le joueur aidé peut utiliser votre marge en addition de son jet. 
 - Roadmaster - *Roadmaster (hmtm-p67)*
-    - en pilotant, +2 pour créer un avantage pour vos amis
+    - En pilotant, +2 pour créer un avantage pour vos amis. 
 - Il vient avec moi - *The Prez (hmtm-p67)*
+    - Si vous êtes le Président du club, vous avez toujours une recrue ou un membre qui vous accompagne. Ce membre a 2 compétences Moyen (+1) et 2 stress. 
 
 ## Mouvement
 
 - Déplacement rapide - *Mad dash (hmtm-p67)*
+    - Vous vous déplacez de 2 zones au lieu d'une dans un conflit, à condition qu'aucun aspect de situation le restreigne le mouvement. 
 - Défense étourdissante - *Rejoiner (hmtm-p67)*
+    - Lors d'un succès de Défendre avec style contre une action de Combat, vous pouvez immédiatement faire une contre-attaque rapide. Ajoutez "étourdit" comme aspect de situation sur votre opposant avec une invocation gratuite. 
 - Souris des tuyaux - *Sewer mouse (hmtm-p67)*
+    - Obtenez +2 en Mouvement dans des tuyaux, égouts, tunnels...
 - Grimpeur domestique - *Domestic Mountaineer (hmtm-p140)*
     - +2 en Mouvement pour escalader du mobilier humain
 - Forest Gump - *I always win (hmtm-p140)*
@@ -171,35 +205,40 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 ## Perception - *Awareness*
 
 - Sens du danger - *Danger sense (hmtm-p65)*
+    - Vous avez une capacité surnaturelle à détecter les dangers. Votre compétence de Perception n'est pas diminuée par la dissimulation, l'obscurité, ou les situations ou quelqu'un a l'intention de vous causer du mal. 
 - Langage du corps - *Body language is everything (hmtm-p65)*
+    - Vous pouvez utiliser Perception pour savoir ce que quelqu'un ressent ou pense pour créer un aspect sur la personne observée. 
 - Je connais mon quartier - *I know my town (hmtm-p65)*
+    - Une fois votre lieu d'origine déterminé, vous obtenez +2 en Perception dans cette zone. 
 
 ## Pilotage - *Driving* 
 
 - Mon quartier, mes routes - *Streets of home (hmtm-p66)*
+    - Choisissez définitivement une zone. 
+    - Vous connaissez les rues et routes comme le fond de votre poche. La difficulté ne dépasse jamais Passable (+2).
 - Cascade à moto - *Daredevil driver (hmtm-p66)*
+    - Obtenez +2 en Pilotage lorsque des cascades sont de la partie (rampes, sauts...)
 - Rattraper le coup - *Expert biker (hmtm-p66)*
-
-## Provocation
-
-- T'es vraiment sûr ? - *Armor of Ire (hmtm-p67)*
-- Prendre le chat par la queue - *Cat Hater (hmtm-p67)*
-- Encouragement caustique - *Heart of Gold (hmtm-p67)*
-- Le chant du chat - *Cat's Meow (hmtm-p144)*
-    - Vous avez appris à imiter les chats
-    - Pour distraire un chat, utiliser Provoquer pour créer un avantage ; l'opposition est passive de Moyenne (+1)
+    - Une fois par session, vous pouvez relancer un jet de Pilotage. 
 
 ### Réseau - *Contacts*
 
 - Contact humain - *The people's mouse (hmtm-p65)*
+    - Deux fois par session, vous pouvez augmenter un coup de pouce en un aspect de situation avec une invocation gratuire. 
 - Messes basses - *Whisper war (hmtm-p65)*
+    - Obtenez +2 quand vous vous adressez à une foule. 
 - Mauvaise réputation - *Bad reputation (hmtm-p65)*
+    - Quand vous réussissez à créer un avantage en obtenant une information de quelqu'un, obtenez deux invocations au lieu d'une. 
 
 ## Savoir - *Know-how* 
 
 - Rat de bibliothèque - *Book mouse (hmtm-p66)*
+    - Vous faites partie de ces quelques créatures qui ont appris à lire une langue humaine. Vous avez donc lu des livres sur des sujets variés. Vous pouvez dépenser un point Fate pour utiliser Savoir au lieu de tout autre compétence pour le tour, à condition de pouvoir justifier avoir lu quelque chose à propos de l'action en cours. 
 - Physicien - *Mechanical mind (hmtm-p66)*
+    - Vous n'avez pas d'expérience de bricolage mais vous avec des connaissances théoriques. Donnez +2 à quelqu'un qui tente un jet de Mécanique. 
 - Spécialiste de ____ - *Area of expertise (hmtm-p66)*
+    - Choisissez un domain d'expertise. 
+    - Obtenez +2 à chaque fois que vous utilisez Savoir dans votre domaine. 
 
 ## Sociabilité - *Rapport*
 
@@ -210,9 +249,11 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 ## Triche - *Mischief*
 
 - Pickpocket - *Pickpocket (hmtm-p67)*
+    - Votre personnage est très doué à profiter de distractions pour prendre un objet rapidement. Dépensez gratuitement un point Fate dans une action Surmonter. 
 - Utile l'intello - *Mastermind (hmtm-p67)*
+    - Si vous avez utilisé Savoir pour créer un avantage pour une tricherie future, obtenez 2 invocations au lieu de 1. 
 - Oups, cassé ! - *Probably didn't break anything important... (hmtm-p67)*
-    - Utilisez Tricherie plutôt que Mécanique pour endommager une machine
+    - Utilisez Tricherie plutôt que Mécanique pour endommager une machine.
 
 ## Tromperie - *Deception* 
 
@@ -223,8 +264,9 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 ## Volonté - *Will*
 
 - On se concentre au guidon - *Focused driver (hmtm-p68)*
-    - peut utiliser Volonté plutôt que Pilotage pour surmonter une situation de pilotage compliquée
+    - Peut utiliser Volonté plutôt que Pilotage pour surmonter une situation de pilotage compliquée.
 - Expert des puzzles - *Puzzle expert (hmtm-p68)*
+    - Avoir observé les jeux compliqués des humains vous aide. Obtenez +2 pour réfléchir à un casse-tête. 
 - ça me dit quelque chose - *Superb memory (hmtm-p68)*
 
 
@@ -234,14 +276,17 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 # Prouesses moto
 
 * Démarrage au Nitro ! - *Nitro boosters (hmtm-p70)*
-    - Dans une compétition (fatefr-150), commencez avec 1 victoire
+    - Dans une compétition (fatefr-150) où vous faites la course en moto, commencez avec 1 victoire.
 * Pneus tout-terrains - *Custom tires (hmtm-p70)*
     * +2 en Pilotage sur terrain difficile
 * Pneus slick
-    * +2 en Pilotage sur une route en bon état
+    * +2 en Pilotage sur une route en parfait état
 * Flaque d'huile - *Oil slick (hmtm-p70)*
+    - Lorsque vous êtes devantun adversaire, dépensez un point Fate pour les forcer à Surmonter Bon (+3) la flaque d'huile ; en cas d'échec, ils glissent et sont immobilisés. 
 * Roues qui piquent - *Spiked hubcaps (hmtm-p70)*
+    - Si vos piques touchent un autre véhicule, faites une action Surmonter de Combat ou Pilotage  pour tenter d'immobiliser le véhicule. 
 * Structure renforcée - *Reinforced frame (hmtm-p70)*
+    - Votre moto est plus difficile à endommager : elle obtient une quatrième case de stress. 
 - Pas qu'à moitié ! - *Kick it into high gear (hmtm-p140)* - 
     - Lors d'un succès à surmonter ou à Créer un avantage, dépenser 1 point permet de démarrer avec 1 victoire
 - Nouveau record - *Pure nitrous (hmtm-p147)*
@@ -272,3 +317,23 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 - Équipe soudée - *Better together (hmtm-p153)*
     - Quand un membre du club est dans le besoin, dépenser un point pour lancer Fraternité au lieu de Ressources.
 
+
+# L'échelle des difficultés
+
+En l'absence d'échelle HMTM, utilisons l'échelle Fate FR. 
+
+Une échelle vulgaire serait intéressante, suggestions ? 
+
+| Difficulté | Vulgaire   | FATE FR     | FATE      | 
+|------------|------------|-------------|-----------|
+|         +8 | ??         | Légendaire  | Legendary | 
+|         +7 | ??         | épique      | Epic      | 
+|         +6 | ??         | Fantastique | Fantastic | 
+|         +5 | ??         | Formidable  | Superb    | 
+|         +4 | ??         | Excellent   | Great     | 
+|         +3 | ??         | Bon         | Good      | 
+|         +2 | Facile     | Passable    | Fair      | 
+|         +1 | Fastoche   | Moyen       | Average   | 
+|          0 | Pourri     | Médiocre    | Mediocre  | 
+|         -1 | Naze       | Mauvais     | Poor      | 
+|         -2 | Pété       | Atroce      | Terrible  | 
