@@ -24,13 +24,13 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 | Tricherie    | Mischief   | oui     | oui          |       |       | N/A          | N/A          |
 | Tromperie    | Deception  | oui     | oui          |       | oui   | Deceive      | Tromperie    |
 | Volonté      | Will       | oui     | oui          |       | oui   | Will         | Volonté      |
-| Appartenance | Fellowship | oui     | oui          |       |       | N/A (club)   | N/A (club)   |
+| Fraternité   | Fellowship | oui     | oui          |       |       | N/A (club)   | N/A (club)   |
 | Autonomie    | Strength   | oui     | oui          | oui   | oui   | N/A (club)   | N/A (club)   |
 | Ordre        | Order      | oui     | oui          | oui   | oui   | N/A (club)   | N/A (club)   |
 | Ressources   | Resources  | oui     | oui          |       |       | N/A (club)   | N/A (club)   |
-| N/A          | N/A        | oui     | oui          |       |       | Burglary     | Cambriolage  |
-| N/A          | N/A        | oui     | oui          |       |       | Resources    | Ressources   |
-| N/A          | N/A        | oui     | oui          | oui   |       | Shoot        | Tir          |
+| -            | -          | oui     | oui          |       |       | Burglary     | Cambriolage  |
+| -            | -          | oui     | oui          |       |       | Resources    | Ressources   |
+| -            | -          | oui     | oui          | oui   |       | Shoot        | Tir          |
 
 - Combat (hmtm-p54)
     - Couvre toutes les formes de combat. 
@@ -84,7 +84,7 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
     - Représente la force mentale du personnage. Contrepartie de Endurance.
     - Utilisation : Surmonter, Créer avantage, Défendre (de Intimider)
 
-- Appartenance (club) - *Fellowship* (hmtm-p73)
+- Fraternité (club) - *Fellowship* (hmtm-p73)
     - Représente la confiance et la volonté des membres à se soutenir mutuellement. 
     - Utilisation : Surmonter, Créer avantage
 - Autonomie (club)    - *Strength*  (hmtm-p73)
@@ -105,13 +105,15 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 - Double coup - *Heavy hitter (hmtm-p65)*
     - En cas de succès avec style en Combat et si choix de réduire le résultat (-1) (fatefr-p140) pour obtenir un coup de pouce (core-p87,fatefr-p58), obtenez un aspect de situation (1 invocation) à la place.
 - Bagarreur - *Brawler (hmtm-p65)*
+    - Des grosses bastons, c'est votre truc. Quand vous combattez un groupe de PNJ simples, vous infligez 1 stress supplémentaire à chaque coup. 
 - Coup de queue - *Tail fighter (hmtm-p65)*
+    - Pour une raison inexpliquée, vous parvenez à utiliser votre queue en tant qu'arme. Une fois par conflit, invoquez cette compétence gratuitement. 
 - Combattant né - *Born fighter (hmtm-p140)*
     - utilise Combat plutôt que Empathie, pour Créer un avantage sur un opposant concernant son habileté à combattre.
 - J'ai glissé ! - *Scrappy fighter (hmtm-p142)*
     - Dépenses 1 point annule le coup qui mettrait hors jeu
-- ??????????????? - *I don't need nobody (hmtm-p148)*
-    - Une fois par scène, lors d'un Combat, dépenser un point pour invoquer un aspect une seconde fois.
+- éfronté - *I don't need nobody (hmtm-p148)*
+    - Une fois par scène, lors d'un Combat, dépenser un point Fate pour invoquer un aspect une seconde fois.
 
 ## Discrétion - *Sneak*
 
@@ -243,8 +245,11 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 ## Sociabilité - *Rapport*
 
 - Je l'ai vu venir - *Best foot forward (hmtm-p68)*
-- Crieur - *The great communicator (hmtm-p67)*
-- ????? - *Flattery will get you everywhere (hmtm-p67)*
+    - Deux fois par session, vous pouvez transformer un coup de pouce en aspect de situation avec une invocation gratuite. 
+- Crieur - *The great communicator (hmtm-p68)* 
+    - Obtenez +2 en Sociabilité quand vous vous adressez à une foule. 
+- Dans le sens du poil - *Flattery will get you everywhere (hmtm-p68)*
+    - Quand vous réussissez un jet de Sociabilité pour créer un avantage en obtenant une information de quelqu'un, obtenez 2 invocation gratuites au lieu d'1. 
 
 ## Triche - *Mischief*
 
@@ -257,18 +262,21 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 
 ## Tromperie - *Deception* 
 
-- Bon mensonge - *Lies upon lies (hmtm-p66)*
-- Je le connais - *A mouse of many colors (hmtm-p66)*
+- Mensonge-ception - *Lies upon lies (hmtm-p66)*
+    - Obtenez +2 pour créer un avantage de Tromperie contre quelqu'un qui a déjà cru en un de vos mensonges pendant la session.
+- Je connais son petit secret - *A mouse of many colors (hmtm-p66)*
+    - Quand vous faites une rencontre et cette personne est suscptible de croire à un mensonge, dépensez un point Fate pour déclarer que vous avez déjà rencontré cette personne une première fois. Lors de votre première entrevue, vous utilisiez une autre identité. Créez un aspect de situation pour représenter l'histoire de cette rencontre passée et utilisez Tromperie au lieu de Sociabilité pour interagir avec cette personne. 
 - Discréditer un club - *Propaganda expert (hmtm-p66)*
+    - Vous pouvez agir contre un club à l'aide de Tromperie, plutôt qu'à l'aide des compétences du club lorsque vous tentez de discréditer un club rival. 
 
 ## Volonté - *Will*
 
 - On se concentre au guidon - *Focused driver (hmtm-p68)*
     - Peut utiliser Volonté plutôt que Pilotage pour surmonter une situation de pilotage compliquée.
 - Expert des puzzles - *Puzzle expert (hmtm-p68)*
-    - Avoir observé les jeux compliqués des humains vous aide. Obtenez +2 pour réfléchir à un casse-tête. 
+    - Avoir observé les jeux compliqués des humains vous aide. Obtenez +2 pour réfléchir à un casse-tête qui nécessite de la Volonté. 
 - ça me dit quelque chose - *Superb memory (hmtm-p68)*
-
+    - Une fois par session, dépendez un point Fate pour déclarer que vous avez déjà été dans cette situation et créez un avantage basé sur votre expérience passée. Cet aspect a une invocation gratuite. 
 
 
 
@@ -300,7 +308,7 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
     - Détermine l'intensité de l'adhérence des membres aux règles et à l'autorité du club.
 - Fraternité - *Fellowship (hmtm-p79)*
     - Le niveau de confiance et de volonté des membres entre eux.
-- Nombre - *Strength (hmtm-p79)*
+- Autonomie - *Strength (hmtm-p79)*
     - La capacité à agir sans l'intervention des joueurs.
 - Ressources (core-p80)
     - La capacité à générer des ressources et des informations pour les membres. 
@@ -308,7 +316,9 @@ Voici les compétences de HMTM (hmtm-p52).  Les équivalences FATE (fatefr-p97,f
 # Prouesses club
 
 - Tout ou rien - *Go big or go home (hmtm-p80)*
+    - Quand votre club réussit un jet de Autonomie, dépensez un point Fate pour réussir avec style. 
 - Formation serrée - *Tight formation (hmtm-p80)*
+    - Quand un groupe de membres du club est en route, et qu'un membre échoue à un jet de Pilotage, dépensez 1 point Fate pour que tous les membres obtiennent +2. 
 - On tourne au Camembert - *Cheese Wheel Burnin' (hmtm-p80)*
     - Le club a une obsession pour le fromage. 
     - Lors d'un jet d'Ordre, quand du fromage exceptionnel est disponible, dépenser un point pour créer un avantage avec une invocation gratuite.
