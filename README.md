@@ -12,16 +12,19 @@ Fate Core System est sous licence Creative Commons Attribution 3.0 Unported, pro
 
 ## Travaux de traduction
 
-Première étape : traduire les noms des éléments du livre essentiels au démarrage d'une partie.
+Première étape : traduire les éléments du livre essentiels au démarrage d'une partie.
 
 - [x] noms des [compétences](SkillsStunts.md)
 - [x] noms des [prouesses](SkillsStunts.md)
-- [ ] noms des districts
-- [ ] noms des clubs
-- [ ] noms des PNJ
+- [x] [échelle des difficultés](SkillsStunts.md)
+- [ ] noms des [districts](World.md)
+- [ ] noms des [clubs](World.md)
+- [ ] noms des [PNJ](World.md)
 - [x] noms des prouesses moto
+- [x] description des prouesses moto
 - [x] noms des compétences de club
-- [ ] prétirés à traduire
+- [x] description des compétences de club
+- [ ] [prétirés](World.md) à traduire
 - [ ] fiche du club à compléter
 - [ ] fiches des clubs à traduire
 - [ ] fiches PNJ à traduire
@@ -29,14 +32,9 @@ Première étape : traduire les noms des éléments du livre essentiels au déma
 Ensuite, créer les supports imprimables... 
 
 - [ ] fiche perso Fate/HMTM
-- [ ] liste des compétences (pour aider à la création des persos)
-- [ ] liste des prouesses   (pour aider à la création des persos)
-
-Il serait sympathique aussi de :
-
-- [ ] traduire les prouesses
-- [ ] traduire les compétences
-
+- [ ] feuille aide création perso (compé, prouesses, ...)
+- [ ] feuille aide de jeu
+    
 Par la suite, d'autres contenus seront produits. 
 
 
@@ -60,4 +58,7 @@ Ne pas traduire mot-à-mot, choisir une terme qui sonne bien ou qui référence 
 Tout élément issu du livre HMTM porte la mention (hmtm) afin de les différencier des éléments inventés séparément ; voir même (hmtm-p132) pour indiquer la page source du live.  
 Tout élément issu du livre Fate Système de base porte la mention (fatefr-p123).  
 Tout élément issu du livre Fate Core system la mention (fate-p123).  
+
+
+
 
